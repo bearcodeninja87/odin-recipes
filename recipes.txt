@@ -1,0 +1,1 @@
+This is a lesson on HTML. I'll be writing a document showcasing recipes from the internet. At the end I will add some CSS to pretty it up.
