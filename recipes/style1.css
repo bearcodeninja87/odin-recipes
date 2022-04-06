@@ -1,7 +1,12 @@
+* {
+    font-family: cursive;
+}
+
 h1 {
     text-align: center;
     background-color: blue;
     color: white;
+    border: sold red;
 }
 
 .image {
@@ -10,11 +15,13 @@ h1 {
     margin-right: auto;
     height: 300px;
     width: 500px;
+    border: sold red;
 
 }
 
 h3 {
     text-align: center;
+    color: teal;
 }
 
 
@@ -22,4 +29,8 @@ h3 {
 p {
     text-align: center;
     font-weight: bold;
+}
+
+.odin {
+    color: darkorange;
 }
