@@ -1,20 +1,66 @@
-* {
+body {
     font-family: fantasy;
     font-weight: bold;
-    font-size: 30px;
-}
+    font-size: 20px;}
 
-h1:hover{
-    background-color: blue;
-}
-
-h1 {
-    text-align: center;
-    color: red;
-}
+    h1 {
+        text-align: center;
+    }
 
 .speedy {
-    display: block;
     margin-left: auto;
     margin-right: auto;
+    display: block;
+}
+
+h3 {
+    text-align: center;
+    border: 7px dotted red;
+    width: 300px;
+    margin: auto;
+    margin-top: 25px;
+}
+
+.ingredients li {
+    list-style: square;
+}
+
+.street {
+    
+    box-sizing: border-box;
+    background-image: url("images/street-tacos.jpg");
+    background-position: center;
+    margin: 0 auto;
+    height: 250px;
+    width: 250px;
+    background-repeat: no-repeat;
+}
+
+.street h4 {
+
+    box-sizing: border-box;
+    width: 100%;
+    text-align: center;
+    margin: 25px auto;
+    width: 75px;
+    color: Red;
+    border: 10px solid darkred;
+    background: green; 
+    position: relative;
+    top: 28px;
+    left: 88px;
+
+}
+
+p {
+    text-align: center;
+}
+
+ol li {
+    background-color: Cornflowerblue;
+    border: solid red;
+}
+
+footer {
+    text-align: center;
 }

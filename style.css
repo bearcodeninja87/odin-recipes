@@ -1,3 +1,25 @@
 h1 {
     text-align: center;
+    background: darkblue;
+    border-radius: 15px;
+    color: red;
+    width: 400px;
+    margin: auto;
 }
+
+.button{
+    padding: 7px;
+}
+
+ul {
+    border: solid 10px darkblue;
+    border-radius: 20px;
+    background: lightseagreen;
+    width: 300px;
+}
+
+li {
+    border: dashed 10px red;
+    margin-top: auto;
+}
+

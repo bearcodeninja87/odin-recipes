@@ -1,7 +1,8 @@
 h1 {
     text-align: center;
-    font-size: 50px;
+    font-size: 70px;
     color: brown;
+    font-weight: bold;
 }
 
 .poridge {
@@ -15,4 +16,14 @@ h1 {
 h3 {
     text-align: center;
     color: brown;
+    font-size: 30px;
+}
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li {
+    background-image:
+    url (images/oatmeal.jpg;
 }
