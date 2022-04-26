@@ -1,8 +1,11 @@
+
+
 h1 {
+
     text-align: center;
-    font-size: 70px;
-    color: brown;
-    font-weight: bold;
+    font-weight: bolder;
+    font-family: 'Chewy', cursive;
+    font-size: 100px;
 }
 
 .poridge {
@@ -12,6 +15,18 @@ h1 {
     height: 400px;
     width: 400px;
 }
+
+.goldi {
+
+    display: flex;
+    justify-content: center;
+    flex-basis: auto;
+    height: 500px;
+    background-image: url("../goldilocks.jpg"); 
+    background-repeat: no-repeat; 
+   
+}
+
 
 h3 {
     text-align: center;
@@ -23,7 +38,19 @@ h3 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-li {
-    background-image:
-    url (images/oatmeal.jpg;
+ul {
+    display: flex;
+    justify-content: center;
 }
+
+li {
+    margin: 10px;
+}
+
+footer .poridge {
+    display: flex;
+    justify-content: center;
+    height: 25px;
+    margin-top: 30px;
+}
+

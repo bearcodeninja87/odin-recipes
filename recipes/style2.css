@@ -21,6 +21,10 @@ h3 {
     margin-top: 25px;
 }
 
+.container .li {
+    display: flex;
+}
+
 .ingredients li {
     list-style: square;
 }
